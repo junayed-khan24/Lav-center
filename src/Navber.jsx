@@ -2,7 +2,6 @@ import React from 'react';
 
 const Navber = () => {
     return (
-        <div>
             <div class="$$navbar bg-base-100 shadow-sm">
   <div class="$$navbar-start">
     <div class="$$dropdown">
@@ -33,7 +32,6 @@ const Navber = () => {
     </button>
   </div>
 </div>
-        </div>
     );
 };
 

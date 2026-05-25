@@ -1,5 +1,6 @@
 
 import './App.css'
+import Hero from './Hero'
 import Navber from './Navber'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   <div>
     <Navber></Navber>
              <h4 className='text-center text-cyan-800 text-8xl font-extrabold'>Hello world</h4>
+             <Hero></Hero>
   </div>
   )
 }
